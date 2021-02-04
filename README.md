@@ -1,9 +1,11 @@
-# Racers Beta Project v1.0b
+# Racers Beta Project
 LEGO Racers mod with both beta HUD and NPC physics
+// TODO: update folder paths (but also everything else)
+//  add changelog
 
 In the first folder there are all the files related to the beta, for example the beta speedometer and the beta shield texture.
 In the second folder there are all custom files. There are some revamped maps (credits to RobExplorien), some directories files for the sfx audio (.SBK).
-In the third folder there are 3 textures, one is a small speedometer, one is always a speedometer, but larger and at the end there is a diamond. You can add it to the "***ENH.BMP" texture instead of the white brick, if you want the HUD completely in beta style.
+In the third folder there are 3 textures, one is a small speedometer, one is always a speedometer, but larger and at the end there is a diamond.
 
 ## How to install
 1 - Take the folders that you want to install;
@@ -22,9 +24,12 @@ In the third folder there are 3 textures, one is a small speedometer, one is alw
 
 For more info check out on Rock Raiders United, at http://www.rockraidersunited.org/topic/5140-lego-racers-beta-project/#entry94581
 And this, if you want to see the development stages of the mod http://www.rockraidersunited.org/topic/5035-beta-hud-remaking/
-On RRU I'm known as Jack Bluebeard.
 
 Enjoy the game!
 by OverFloyd
 
-© 2013 by OverFloyd
+## Version history
+1.0/1.0b: september 2013
+1.1: feb 4, 2021
+
+© 2013/2021 by OverFloyd
